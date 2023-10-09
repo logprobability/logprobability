@@ -1,6 +1,5 @@
 ### Hello
 
-<!--
 **logprobability** 
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
     - If you got here from a site with my name or my resume, refer to those.
     - If not, please contact me via any means on github. I am a daily user for the foreseeable future.
 - Pronouns: he/him
--->
