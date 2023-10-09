@@ -2,8 +2,6 @@
 
 **logprobability** 
 
-Here are some ideas to get you started:
-
 - I’m currently working on: optimization algorithms, machine learning, and continuing improvements to projects.
 - I’m looking to collaborate on: nothing at the moment, my plate is full, but check this spot in the future!
 - I’m looking for help with: growing my network.
